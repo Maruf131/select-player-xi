@@ -1,6 +1,7 @@
 import { TbCoin } from "react-icons/tb";
 import profile from "../../images/logo.png";
 const Navbar = ({amount}) => {
+
   return (
     <div className=" p-4 sticky top-0 z-50 bg-white/30 backdrop-blur-xl border-b border-white/20">
       {/* navbar  */}
